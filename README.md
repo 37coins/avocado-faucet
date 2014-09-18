@@ -1,0 +1,4 @@
+avocado-faucet
+==============
+
+Bitcoin dispenser
